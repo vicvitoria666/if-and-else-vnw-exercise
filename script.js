@@ -34,4 +34,9 @@ if (aniversário === 'janeiro','dezembro') {
     console.log('ops não foi dessa vez')
 }
 
+let name = 'vitória'
+
+if (name.indexOf('R') == 0) {
+    console.log ('seu nome começa com R')
+}
 
